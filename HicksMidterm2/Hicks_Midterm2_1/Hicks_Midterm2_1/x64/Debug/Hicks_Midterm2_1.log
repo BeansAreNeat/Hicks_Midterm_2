@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\joe9n\OneDrive\Desktop\HicksMidterm2\Hicks_Midterm2_1\Hicks_Midterm2_1\main.cpp(30,20): error C2144: syntax error: 'int' should be preceded by ')'
+C:\Users\joe9n\OneDrive\Desktop\HicksMidterm2\Hicks_Midterm2_1\Hicks_Midterm2_1\main.cpp(30,24): error C2660: 'converOct': function does not take 0 arguments
+C:\Users\joe9n\OneDrive\Desktop\HicksMidterm2\Hicks_Midterm2_1\Hicks_Midterm2_1\main.cpp(16,6): message : see declaration of 'converOct'
+C:\Users\joe9n\OneDrive\Desktop\HicksMidterm2\Hicks_Midterm2_1\Hicks_Midterm2_1\main.cpp(30,20): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\joe9n\OneDrive\Desktop\HicksMidterm2\Hicks_Midterm2_1\Hicks_Midterm2_1\main.cpp(30,27): error C2059: syntax error: ')'
